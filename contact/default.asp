@@ -7,6 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 <link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="/css/custom-style.css">
 <link rel="stylesheet" href="/css/fontello.css">
 <!--#include virtual="/inc/google_stuff.asp" -->
 </head>
@@ -16,8 +17,8 @@
   <div class="container-fluid">
     <div class="row align-items-center">
       <div class="col text-center">
-        <h1>KEEP YOURSELF UP TO DATE:</br>
-          <b>OUR MOST RECENT NEWS </b></h1>
+        <h1 class="width-500">Get In Touch.</br>
+          <b>If you would like to get in touch, we would love to hear from you.</b></h1>
         <hr/>
       </div>
     </div>
@@ -26,11 +27,10 @@
 <section class="pt-50 ">
   <div class="container">
     <div class="row align-items-center d-flex justify-content-center">
-      <div class="col-4 text-center">
-        <h2> Get in touch </h2>
-        <p class="dark-gray"> If you would like to get in touch, we would love to hear from you. Please email us at the email address below and we will be in touch in 24 hours. </p>
+      <div class="col-md-4 col-12 text-center">
+        <h2>Contact Us</h2>
+        <p class="dark-gray"> Please email us at the email address below and we will be in touch in 24 hours</p>
         <hr/>
-        <h4> <b>Get in touch</b> </h4>
         <p class="dark-gray">Raimond Volpe</p>
         <p class="dark-gray">1300 745 977</p>
         <a href="mailto:info@success1010.com.au">info@success1010.com.au</a> </div>

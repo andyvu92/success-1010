@@ -44,7 +44,7 @@
         <article>
           <p> SUCCESS1010™ FOR LIVING is a guide to living your most successful life. I had a major set back in my thirties. Throughout this journey I became extremely motivated and driven to uncover why I had derailed. This book is a result of years of research and personal experience. </p>
           <blockquote>
-            <p> I discovered that establishing and following a set of personal values leads to lasting experience of happiness. ‘‘Success1010TM stems from the 10 Blockages we face and the way to unblock ourselves along with the 10 principles we need to stay successful. Achieving your goals is based around the pursuit of the four basic values: faith, family, community, and work. </p>
+            <p> I discovered that establishing and following a set of personal values leads to lasting experience of happiness. ‘‘Success1010™ stems from the 10 Blockages we face and the way to unblock ourselves along with the 10 principles we need to stay successful. Achieving your goals is based around the pursuit of the four basic values: faith, family, community, and work. </p>
           </blockquote>
           <p> ‘When we are stuck in life, we feel emotionally drained and life looks doomed. From where do these feelings arise? Often, they derive from our traumatic interpretation of early childhood events. This interpretation is unconscious, as is the way we learnt to cope with it. These events and how we learn to cope with them shape our lives, impacting our future. </p>
         </article>
@@ -107,7 +107,7 @@
             <div>
               <ul class="no-margin lh-26">
                 <li>
-                  <p>Identifying wha success<strong>&nbsp;</strong>means<strong>&nbsp;</strong>and build strategies to reach your goals</p>
+                  <p>Identifying what success<strong>&nbsp;</strong>means<strong>&nbsp;</strong>and build strategies to reach your goals</p>
                 </li>
                 <li>
                   <p>What<strong>&nbsp;</strong>stuckburies<sup>®</sup> are</p>

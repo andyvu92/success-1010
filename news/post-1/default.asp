@@ -16,7 +16,7 @@
 <section >
   <div class="container-fluid ">
     <div class="row ">
-      <div class="col-md-8 col-sm-12 border-right-1 shop pt-50" >
+      <div class="col-md-8 col-sm-12 border-right-1 pt-50" >
         <div class="container pt-50 pb-50">
           <div class="row">
             <p> Kicking off the SUCCESS1010™ FOR LIVING world tour, Raimond has been involved in multiple International Book Fairs since the books launch in April 2016. </p>

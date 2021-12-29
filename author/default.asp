@@ -88,7 +88,7 @@
 			<div class="container d-flex justify-content-center text-center special-heading-wrapper">
 				<h1 class="heading text-light">Multi Award Winner </h1>
 			</div>
-			<div class="row">
+			<div class="row text-box-grid">
 				<div class="col-12 col-md text-center">
 					<div class="rounded">
 						<span class="icon-book-open icon-big "></span>

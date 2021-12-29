@@ -1,0 +1,29 @@
+.image-grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media all and (max-width: 767.98px) {
+  .image-grid {
+    flex-direction: column;
+  }
+}
+.image-grid img {
+  margin: 0 30px;
+}
+@media all and (max-width: 767.98px) {
+  .image-grid img {
+    max-width: -webkit-max-content;
+    max-width: -moz-max-content;
+    max-width: max-content;
+    margin: 0;
+  }
+  .image-grid img:not(:first-of-type) {
+    margin: 30px 0 0;
+  }
+}
+
+.width-500 {
+  max-width: 500px;
+  margin: 0 auto;
+}/*# sourceMappingURL=custom-style.css.map */
