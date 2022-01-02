@@ -8,7 +8,7 @@
 		</div>
       </div>
       <div class="col-md-2 col-sm-6">
-		<div style="margin-left:auto; margin-right:auto; width:100px;">
+		<div class="footer-column-wrapper">
         <h3 >Pages</h3>
         <ul>
           <li><a href="/">Home</a></li>
@@ -23,11 +23,11 @@
 		</div>
       </div>
       <div class="col-md-5 col-sm-6">
-		<div class="c-40">
-        <h3>SUCCESS1010™ FOR LIVING</h3>
-        <p class="text-light"> Melbourne, Vic, Aus</p>
-        <p class="text-light"> 1300 745 977</p>
-        <p class="text-light"> info@success1010.com.au</p>
+		<div class="c-40 footer-column-wrapper">
+            <h3>SUCCESS1010™ FOR LIVING</h3>
+            <p class="text-light"> Melbourne, Vic, Aus</p>
+            <p class="text-light"> 1300 745 977</p>
+            <p class="text-light"> info@success1010.com.au</p>
 		</div>
       </div>
     </div>

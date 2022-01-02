@@ -1,14 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Raimond Volpe - Public Speaker - SUCCESS1010™ FOR LIVING</title>
-<meta name="description" content="Raimond Volpe is a motivational speaker. He is an international best-seller of the self-improvement book, Success1010 for living.">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-<link rel="stylesheet" href="/css/style.css">
-<link rel="stylesheet" href="/css/fontello.css">
-<!--#include virtual="/inc/google_stuff.asp" -->
+    <title>Raimond Volpe - Public Speaker - SUCCESS1010™ FOR LIVING</title>
+    <meta name="description" content="Raimond Volpe is a motivational speaker. He is an international best-seller of the self-improvement book, Success1010 for living.">
+    <!--#include virtual="/inc/header.asp" -->
 </head>
 <body>
 <!--#include virtual="/inc/menu.asp" -->

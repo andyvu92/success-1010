@@ -359,7 +359,6 @@ section {
 /* Slides */
 .mySlides {
   display: none;
-  height: 250px;
   width: 85%;
   text-align: center;
 }
