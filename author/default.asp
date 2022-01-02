@@ -7,23 +7,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
   <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/custom-style.css">
   <link rel="stylesheet" href="/css/fontello.css">
   <!--#include virtual="/inc/google_stuff.asp" -->
 </head>
 <body>
 
 <!--#include virtual="/inc/menu.asp" -->
-	
+
 	<section class="header-section author-bg">
 		<div class="container-fluid">
 			<div class="row align-items-center">
-				<div class="col text-center"> 
+				<div class="col text-center">
 					<h1>
 						ABOUT THE AUTHOR </br>
 						<strong>RAIMOND VOLPE	</strong>
 					</h1>
 					<hr/>
-					
+
 				</div>
 			</div>
 		</div>
@@ -54,7 +55,7 @@
 					<div>
 						<img src="/img/Raimond.jpg" width="100%"/>
 					</div>
-					<div class="no-margin"> 
+					<div class="no-margin">
 						<h3><strong>Raimond Volpe</strong></h3>
 						<p>International Best-Selling Author</p>
 					</div>
@@ -151,7 +152,7 @@
 		<div class="container d-flex justify-content-center text-center special-heading-wrapper">
 			<h2 class="heading"><span class="qouts">“</span><strong>WHEN </strong>YOU LET GO OF THE PAST, YOU CAN FOCUS ON THE <strong>FUTURE.</strong><span class="qouts">”</span> SUCCESS1010 FOR LIVING CAN HELP YOU LEARN TO LET GO.</h2>
 		</div>
-		
+
 	</div>
 <!--#include virtual="/inc/buy.asp" -->
 <!--#include virtual="/inc/footer.asp" -->
